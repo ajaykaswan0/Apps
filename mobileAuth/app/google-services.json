@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750107035749",
+    "firebase_url": "https://newapp-1e03f.firebaseio.com",
+    "project_id": "newapp-1e03f",
+    "storage_bucket": "newapp-1e03f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750107035749:android:419a3ce207b556ce",
+        "android_client_info": {
+          "package_name": "com.baba.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750107035749-41b89m9q1ril0vovk99q89tehenl4rid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baba.newapp",
+            "certificate_hash": "8f10484fd3a0812e262c4def0d72d413eddc848a"
+          }
+        },
+        {
+          "client_id": "750107035749-cgrp3mui55migo4obj7cuk0e111jbfkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ywEksAyUut5Bc4u2g_NjOSRDiXfyfm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750107035749-cgrp3mui55migo4obj7cuk0e111jbfkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

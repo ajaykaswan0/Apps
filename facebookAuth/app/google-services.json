@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323499749837",
+    "firebase_url": "https://facebookauth-210fc.firebaseio.com",
+    "project_id": "facebookauth-210fc",
+    "storage_bucket": "facebookauth-210fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323499749837:android:56ce2e19c8abee9f",
+        "android_client_info": {
+          "package_name": "com.baba.facebookauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323499749837-umgm8qqbbrk3f2qh4li6ieje4ohcifk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baba.facebookauth",
+            "certificate_hash": "8f10484fd3a0812e262c4def0d72d413eddc848a"
+          }
+        },
+        {
+          "client_id": "323499749837-l8grjekm60o7eph230cisak22srgif8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwkS5JluKoczDQmZajuq8lh5uer5d0l2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323499749837-l8grjekm60o7eph230cisak22srgif8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

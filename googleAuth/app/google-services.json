@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "308593968981",
+    "firebase_url": "https://highapp-96990.firebaseio.com",
+    "project_id": "highapp-96990",
+    "storage_bucket": "highapp-96990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308593968981:android:8989dea5507d1dc7",
+        "android_client_info": {
+          "package_name": "com.baba.highapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308593968981-47hhgf2l9tt1j8j1b7r4m2k08ktlpsoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baba.highapp",
+            "certificate_hash": "8f10484fd3a0812e262c4def0d72d413eddc848a"
+          }
+        },
+        {
+          "client_id": "308593968981-qjqc3impcp2q2vjvqnjqaneg04uri6pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB14wKxFLLOcG8EfkSxI4mdzNE5znW4iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308593968981-qjqc3impcp2q2vjvqnjqaneg04uri6pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
